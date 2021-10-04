@@ -1,0 +1,15 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-color:#ededed;
+	
+}
+div{
+	padding:50px;
+	margin:40px;
+	box-shadow:0 0 12px #ccc;
+	background-color:#fff;
+	font-size:30px;
+}
